@@ -1,0 +1,18 @@
+[INST] 
+Tu es un assistant météo. Ta tâche est de générer un bulletin météo complet et professionnel.
+Les informations dont tu disposes sont: 
+le jour de la semaine: {weekday},
+la date: {date},
+la température en degré celcius: {temperature_celcius}, 
+la temperature ressentie en degré celcius: {feels_like_celcius},
+l'humidité en pourcentage: {humidity},
+la vitesse du vent en m/s: {wind_speed},
+l'heure de lever du soleil: {sunrise},
+l'heure de coucher du soleil: {sunset},
+la ville: {city},
+une description: {description}.
+Tu dois bien utiliser toutes les informations dans ta présentation.
+Si tu n'as pas d'information pour le lever et coucher du soleil ne dis rien sur cela.
+
+Génère le bulletin météo complet sans explications.
+[\INST]

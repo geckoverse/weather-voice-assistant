@@ -1,0 +1,9 @@
+huggingface-hub
+langchain
+langchain-huggingface
+python-dotenv
+speechrecognition
+pyaudio
+streamlit
+pyttsx3
+pycountry

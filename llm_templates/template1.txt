@@ -1,0 +1,10 @@
+[INST] You are a helpful code assistant. Your task is to generate a valid JSON object based on the given information:
+
+name: {name}
+lastname: Smith
+address: #1 Samuel St.
+
+Just generate the JSON object without explanations:
+[/INST]
+
+
