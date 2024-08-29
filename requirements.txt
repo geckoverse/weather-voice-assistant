@@ -1,9 +1,16 @@
+# llm libraries
 huggingface-hub
 langchain
 langchain-huggingface
-python-dotenv
-speechrecognition
+
+# audio libraries
 pyaudio
+speechrecognition
+
+# env
+python-dotenv
+
+# application
+matplotlib
 streamlit
-pyttsx3
 pycountry
